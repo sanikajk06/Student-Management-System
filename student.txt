@@ -1,0 +1,11 @@
+Student Management System
+
+Student ID: 101
+Name: Rahul Sharma
+Course: Computer Engineering
+Year: Third Year
+
+Student ID: 102
+Name: Priya Patil
+Course: Information Technology
+Year: Second Year
