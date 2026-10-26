@@ -9,3 +9,14 @@ Student ID: 102
 Name: Priya Patil
 Course: Information Technology
 Year: Second Year
+
+Student ID: 103
+Name: Amit Joshi
+Course: Computer Engineering
+Year: Third Year
+
+Student ID: 104
+Name: Sneha More
+Course: Information Technology
+Year: Second Year
+
